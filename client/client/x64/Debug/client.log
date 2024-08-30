@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ankit\OneDrive\Desktop\project\chat application\client\main.cpp(69,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client.vcxproj -> C:\Users\ankit\OneDrive\Desktop\project\chat application\client\x64\Debug\client.exe
